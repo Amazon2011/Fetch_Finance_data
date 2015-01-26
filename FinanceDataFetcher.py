@@ -91,11 +91,11 @@ if __name__ == '__main__':
 		writer.writerow(requiredData)
 		
 		#主板
-		for i in range(602500, 602500):
+		for i in range(600000, 602500):
 			stockCode = str(i)
 			GetStockDataUtils.writeDataDictionary(writer, stockCode, requiredData)
 		#中小板
-		for i in range(3000,3000):
+		for i in range(1,3000):
 			stockCode = '{0:06}'.format(i)
 			GetStockDataUtils.writeDataDictionary(writer, stockCode, requiredData)
 		
