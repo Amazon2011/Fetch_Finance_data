@@ -81,8 +81,6 @@ class GetStockDataUtils:
     #ddddddddddddddddd
     #Insert for test
     #xxxxxxxxxxxxx
-	
-    #,,,,,
     
 	@staticmethod
 	def writeDataDictionary(writer, stockCode, requiredData):
