@@ -79,10 +79,10 @@ class GetStockDataUtils:
     #xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
     #for test
     #xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-    #dddddd
 	
 	@staticmethod
 	def writeDataDictionary(writer, stockCode, requiredData):
+    #ddddddddddddddd
 		print(stockCode)
 		requiredDataDictionary = GetStockDataUtils.getDataMap(stockCode, requiredData)
 		if (requiredDataDictionary != None):
