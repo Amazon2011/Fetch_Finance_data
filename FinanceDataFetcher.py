@@ -79,6 +79,9 @@ class GetStockDataUtils:
     #xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
     #for test
     #xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+    
+    
+    #dddddd
 	
 	@staticmethod
 	def writeDataDictionary(writer, stockCode, requiredData):
