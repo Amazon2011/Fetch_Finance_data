@@ -107,6 +107,8 @@ class GetStockDataUtils:
     #bbb
     #ddd
     #ccc
+    local a
+    local b
     
     
 	@staticmethod
