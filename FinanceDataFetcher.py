@@ -78,10 +78,7 @@ class GetStockDataUtils:
         
     #xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
     #for test
-    #dddddddddddddddd
     #xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-    
-    
     #dddddd
 	
 	@staticmethod
