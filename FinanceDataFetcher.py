@@ -95,6 +95,8 @@ class GetStockDataUtils:
     #qqwqwrerwr
     #123466785
     
+    #test2
+    
 	@staticmethod
 	def writeDataDictionary(writer, stockCode, requiredData):
     #ddddddddddddddd
