@@ -74,6 +74,11 @@ class GetStockDataUtils:
 			if (stockClosed == '已退市'):
 				return True
 		return False
+        
+        
+    #xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+    #for test
+    #xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 	
 	@staticmethod
 	def writeDataDictionary(writer, stockCode, requiredData):
